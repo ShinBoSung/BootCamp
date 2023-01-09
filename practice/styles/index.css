@@ -1,0 +1,67 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 50px;
+  font-family: "Fira Mono", monospace;
+  color: rgb(68, 16, 173);
+}
+
+img {
+  width: 250px;
+  height: 150px;
+}
+#main-box {
+  margin-bottom: 60px;
+}
+
+#box-modal {
+  background-color: rgb(138, 102, 212);
+  width: 670px;
+  margin: auto;
+  color: white;
+  border-radius: 8px;
+  text-align: start;
+  padding: 25px 35px;
+}
+
+li {
+  margin-block: 12px;
+  padding-left: 10px;
+  border-left: 5px solid transparent;
+}
+
+ol {
+  padding: 0;
+  list-style: none;
+  margin: 0;
+}
+
+.extra-important {
+  color: rgb(255, 237, 177);
+  border-color: rgb(247, 209, 85);
+}
+
+span {
+  background-color: rgb(255, 237, 177);
+  color: rgb(102, 47, 211);
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+#last-box {
+  margin: 30px;
+  color: rgb(123, 122, 118);
+}
+
+a {
+  color: black;
+  background-color: rgb(229, 206, 52);
+  text-decoration: none;
+  padding: 10px 15px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  display: inline-block;
+}
