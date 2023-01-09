@@ -9,11 +9,11 @@ h1 {
 }
 
 p {
-  font-family: "Fira Sans" sans-serif;
+  font-family: "Fira Sans", sans-serif;
 }
 
 a {
-  font-family: "Fira Sans" sans-serif;
+  font-family: "Fira Sans", sans-serif;
   text-decoration: none;
   color: rgb(167, 1, 78);
 }
